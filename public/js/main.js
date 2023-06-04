@@ -1,0 +1,1 @@
+const socket = io(); // we have access to io because of script tag that we added in chat.html 
